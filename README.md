@@ -24,7 +24,7 @@ JardiLune Pro s’adresse aux jardiniers amateurs qui souhaitent planifier leurs
 
 ## 📌 Version
 
-Version actuelle : 1.0.37
+Version actuelle : 1.0.44
 
 ## 👤 Auteur
 
