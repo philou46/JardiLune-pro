@@ -1,6 +1,6 @@
 {
-  "versionCode": 107800,
-  "versionName": "1.0.78-mobile",
-  "apkUrl": "https://github.com/philou46/JardiLune-pro/releases/download/v1.0.78-android/JardiLunePro_Android_1.0.78.apk",
-  "notes": "Mises a jour Android via GitHub public, utilisables depuis n'importe quel telephone."
+  "versionCode": 107900,
+  "versionName": "1.0.79-mobile",
+  "apkUrl": "https://github.com/philou46/JardiLune-pro/releases/download/v1.0.79-android/JardiLunePro_Android_1.0.79.apk",
+  "notes": "La mise a jour ouvre automatiquement l'installation apres le telechargement. Logo agrandi."
 }
